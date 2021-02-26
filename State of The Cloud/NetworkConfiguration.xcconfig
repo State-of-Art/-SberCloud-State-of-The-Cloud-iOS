@@ -1,4 +1,4 @@
-//
+"//
 //  NetworkConfiguration.xcconfig
 //  State of The Cloud
 //
@@ -7,3 +7,24 @@
 
 // Configuration settings file format documentation can be found at:
 // https://help.apple.com/xcode/#/dev745c5c974
+
+// MARK: - APP INFO
+
+
+REGION = "RU-Moscow"
+
+PROJECT_NAME = "ru-moscow-1"
+
+PROJECT_ID = "0b9656ad7300272e2fa9c01e2a8cc7ed"
+
+API_KEY = ""
+
+// MARK: - ACCOUNT INFO
+
+USERNAME = "hackathon110"
+
+USER_ID = "0b9656adef0024b61f82c01e7d0f6797"
+
+ACCOUNT_NAME = "hackathon110"
+
+ACCOUNT_ID = "0b9656ad6a00272e0fa6c01e481d0dc0"

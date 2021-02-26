@@ -2,6 +2,22 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>ACCOUNT_ID</key>
+	<string>$(ACCOUNT_ID)</string>
+	<key>ACCOUNT_NAME</key>
+	<string>$(ACCOUNT_NAME)</string>
+	<key>USER_ID</key>
+	<string>$(USER_ID)</string>
+	<key>USERNAME</key>
+	<string>$(USERNAME)</string>
+	<key>API_KEY</key>
+	<string>$(API_KEY)</string>
+	<key>PROJECT_ID</key>
+	<string>$(PROJECT_ID)</string>
+	<key>PROJECT_NAME</key>
+	<string>$(PROJECT_NAME)</string>
+	<key>REGION</key>
+	<string>$(REGION)</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
