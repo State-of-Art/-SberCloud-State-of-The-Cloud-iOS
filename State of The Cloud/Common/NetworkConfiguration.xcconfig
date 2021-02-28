@@ -1,0 +1,42 @@
+//
+//  NetworkConfiguration.xcconfig
+//  State of The Cloud
+//
+//  Created by Dmitry Aksyonov on 26.02.2021.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// MARK: - APP INFO
+
+
+REGION = RU-Moscow
+
+PROJECT_NAME = ru-moscow-1
+
+PROJECT_ID = 0b9656ad7300272e2fa9c01e2a8cc7ed
+
+API_KEY = 684
+
+ACCESS_ID_KEY = KIOIOJHH3SIA8LGK42TD
+
+SECRET_ACCESS_KEY = zDJ0v3X5TxVmVqoO4dIcZ8ix0wQ0yxqHd6P7pTtc
+
+// MARK: - ACCOUNT INFO
+
+USERNAME = hackathon110
+
+USER_ID = 0b9656adef0024b61f82c01e7d0f6797
+
+ACCOUNT_NAME = hackathon110
+
+DOMAIN = hackathon110
+
+PASSWORD = hackathon110+
+
+ACCOUNT_ID = 0b9656ad6a00272e0fa6c01e481d0dc0
+
+// MARK: - MISC
+
+BASE_URL = ces.ru-moscow-1.hc.sbercloud.ru
